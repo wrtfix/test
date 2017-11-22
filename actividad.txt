@@ -1,0 +1,1 @@
+1 - Generar una pagina web (index.html) que presente dos formularioa con los metodos post y get que terminen en otra pagina web (resultado.html)
